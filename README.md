@@ -1,2 +1,2 @@
-# Otopark-Kayit-Uygulamasi
-Cift yonlu dogrusal bagli  liste uygulamasi
+# Parking-Registration-Application
+Doubly linearly linked list implementation
